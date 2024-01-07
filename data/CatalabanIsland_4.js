@@ -1,0 +1,1 @@
+var json_CatalabanIsland_4 = {"type":"FeatureCollection","name":"CatalabanIsland_4","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Island":"Catalaban "},"geometry":{"type":"Point","coordinates":[125.465641640853832,11.856711884825472]}}]}
